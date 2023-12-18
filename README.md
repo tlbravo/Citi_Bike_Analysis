@@ -1,6 +1,4 @@
-Citi Bike Analysis
-
-![bike](Images/bike.JPG)
+# Citi Bike Analysis
 
 ## Objective 
 I was assigned the task of consolidating data extracted from the [Citi Bike Trip History Logs](https://citibikenyc.com/system-data) in New York City to identify any unforeseen patterns or occurrences. To accomplish this, I employed Jupyter Notebook and the Pandas library to clean the Citi Bike data collected in December 2019.
@@ -39,17 +37,20 @@ Finally, I calculated the "Age" column by subtracting 2019 from the "birth year"
 
 ![startloc](Images/startloc.PNG)
 
-    * Pershing Square North has the most starting trips which suggest that its central location makes it easily accessible for riders.
+* Pershing Square North has the most starting trips which suggest that its central location makes it easily accessible for riders.
     * The recurrence of several end station names in the "Top 10 Start Station Names" slide further strengthens the notion of these locations serving as key transportation hubs.
 
 ![startstoploc](Images/startstoploc.PNG)
 
 ## Conclusions
 
-Predominantly, the riders were males aged around 30, with the majority being Subscribers, indicating cost-efficiency for frequent riders.
+* Predominantly, the riders were males aged around 30, with the majority being Subscribers, indicating cost-efficiency for frequent riders.
 
-Weekdays between 8 am and 5 pm saw higher rental activity, making commuters an attractive target demographic.
+* Weekdays between 8 am and 5 pm saw higher rental activity, making commuters an attractive target demographic.
 
-The primary usage hubs were located in Lower Manhattan, signifying its importance as a transportation center, facilitating Citi Bike accessibility.
+* The primary usage hubs were located in Lower Manhattan, signifying its importance as a transportation center, facilitating Citi Bike accessibility.
 
-Notably, Pershing Square North recorded the highest start and end trip counts, suggesting that expanding Citi Bike stations in this vicinity could drive profits even higher due to its popularity and accessibility.
+* Notably, Pershing Square North recorded the highest start and end trip counts, suggesting that expanding Citi Bike stations in this vicinity could drive profits even higher due to its popularity and accessibility.
+
+
+My final Story with my visualizations can be found on [Tableau](https://public.tableau.com/app/profile/theresa.bravo/viz/CitiBikeChallenge_16989430405190/Story1?publish=yes). 
